@@ -12,3 +12,5 @@ A repository for reports and discussions about the YetiForce system.
 #### :blue_book: Knowledge base: [doc.yetiforce.com](https://doc.yetiforce.com/)
 
 #### :blue_book: Demo: [demo.yetiforce.com](https://demo.yetiforce.com/)
+
+<img src="https://stats.yetiforce.com/matomo.php?idsite=4&amp;rec=1" style="border:0" alt="" />
